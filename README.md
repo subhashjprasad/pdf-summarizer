@@ -14,7 +14,7 @@ For detailed implementation/modification, refer to PDFSummarizer.ipynb.
 - Replace `pdf_path` variable with appropriate pdf file path:
 ```
 %%capture
-pdf_path = 'coontz.pdf' # replace with pdf path
+pdf_path = '_____.pdf' # replace with pdf path
 images = convert_from_bytes(open(pdf_path, 'rb').read(), size=800)
 ```
 - Run second cell
