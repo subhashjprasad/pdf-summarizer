@@ -8,6 +8,7 @@ Created using PyTorch, facebook/nougat-base for OCR, and pszemraj/led-large-book
 For detailed implementation/modification, refer to PDFSummarizer.ipynb.
 
 ### Ready-To-Use Instructions (with PDFSummarizerEasyUse.ipynb):
+- Open in Colab
 - Run first cell
 - Upload pdf to Files
 - Replace `pdf_path` variable with appropriate pdf file path:
