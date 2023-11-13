@@ -7,7 +7,7 @@ Created using PyTorch, facebook/nougat-base for OCR, and pszemraj/led-large-book
 ## Usage
 For detailed implementation/modification, refer to PDFSummarizer.ipynb.
 
-### Ready-To-Use Instructions:
+### Ready-To-Use Instructions (with PDFSummarizerEasyUse.ipynb):
 - Run first cell
 - Upload pdf to Files
 - Replace `pdf_path` variable with appropriate pdf file path:
